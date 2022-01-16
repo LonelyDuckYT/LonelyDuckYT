@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LonelyDuck
+- 👀 I’m interested in Unity Development
+- 🌱 I’m currently learning C# Code language
+- 💞️ I’m looking to collaborate on Unity Platform
